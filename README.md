@@ -20,38 +20,24 @@ This project investigates how data-driven methods can be used to allocate power 
   - **ISR** (Interference-to-Signal Ratio)
   - **Throughput**
 
+- Exploratory data analysis and visualization
+- Machine learning–based classification for power allocation decisions
+- Model evaluation and performance comparison
+## Technologies Used
+- Python
+- PyTorch
+- NumPy, Pandas, Matplotlib (for analysis and visualization)
 
-Exploratory data analysis and visualization
+## Input & Output
+- Input: Communication system parameters and extracted features
+- Output: An optimal power allocation decision that minimizes interference while improving overall performance
 
-Machine learning–based classification for power allocation decisions
-
-Model evaluation and performance comparison
-
-Technologies Used
-
-Python
-
-PyTorch
-
-NumPy, Pandas, Matplotlib (for analysis and visualization)
-
-Input & Output
-
-Input: Communication system parameters and extracted features
-
-Output: An optimal power allocation decision that minimizes interference while improving overall performance
-
-How to Run
-
-The project is implemented as a Google Colab notebook:
-
-Open the notebook in Google Colab
-
-Run the cells sequentially
-
-Follow the analysis, training, and evaluation steps inside the notebook
-
-No additional setup is required beyond standard Python ML libraries.
+## How to Run
+- The project is implemented as a Google Colab notebook:
+- Open the notebook in Google Colab
+- Run the cells sequentially
+- Follow the analysis, training, and evaluation steps inside the notebook
+- No additional setup is required beyond standard Python ML libraries.
 
 Future Improvements
 
